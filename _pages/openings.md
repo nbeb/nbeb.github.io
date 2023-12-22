@@ -2,7 +2,7 @@
 layout: page
 permalink: /openings/
 title: Openings
-description: I'm looking for motivated PhD students on - but not limited to - the research areas discussed <a href='/research' style='color:purple;'>here</a>. Interested candidates should email me with a CV and a short cover letter, or for informal enquiries.
+description: I'm looking for motivated PhD students on - but not limited to - the research areas discussed <a href='/research'>here</a>. Interested candidates should email me with a CV and a short cover letter, or for informal enquiries.
 nav: true
 nav_order: 5
 ---
