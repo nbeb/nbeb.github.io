@@ -2,7 +2,7 @@
 layout: page
 permalink: /openings/
 title: Openings
-description: I'm looking for motivated PhD students on - but not limited to - the research areas discussed <a href='/research'>[here]</a>. Interested candidates should email me with a CV and a short cover letter, or for informal enquiries.
+description: I'm looking for motivated PhD students on - but not limited to - the research areas discussed <a href='/research' style='color:purple;'>here</a>. Interested candidates should email me with a CV and a short cover letter, or for informal enquiries.
 nav: true
 nav_order: 5
 ---
@@ -22,4 +22,4 @@ For details on the post, eligibility requirements and how to apply see [here](ht
 Deadline for applications: 28 March 2024
 
 ---
-**Post-docs** I would be happy to support you in applying for post-doctoral funding schemes to be hosted at QMUL. Please contact me for informal discussions.
+**Post-docs** I would be happy to support you in post-doctoral fellowship applications to be hosted at QMUL. Please contact me for informal discussions.

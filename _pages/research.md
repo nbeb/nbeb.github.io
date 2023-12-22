@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 **Bubble dynamics**
-Bubbles are fascinating! Even though they are tiny, they can incur significant damage to even the strongest of materials. They can also be used for drug delivery, therapy (tumour ablation, kidney stone fragmentation, tissue regeneration, pain management), cleaning of surfaces, and energy generation, to name a few other applications.
+Bubbles are fascinating! Even though they are tiny, they can do significant damage to even the strongest of materials. They can also be used for drug delivery, therapy (tumour ablation, kidney stone fragmentation, tissue regeneration, pain management), cleaning of surfaces, and energy generation, to name a few other applications.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bubble2.png" title="Collapsing bubble" class="img-fluid rounded z-depth-1" %}
@@ -26,7 +26,7 @@ Bubbles are fascinating! Even though they are tiny, they can incur significant d
 
 ---
 **Aerodynamics**
-I am interested in aerodynamics, specifically in the context of wind energy. This includes studying the wakes and aerodynamic properties of wind turbines and more generally, bluff bodies and rotors. Additionally, I am intrigued by the interactions that occur when these bodies are grouped together or exposed to atmospheric flows.
+I am interested in studying the wakes and aerodynamic properties of wind turbines and more generally, bluff bodies and rotors. Particular attention is given to the interactions that occur when these bodies are grouped together or exposed to atmospheric flows.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/Wind_Farm.jpg" title="Flow in a wind farm" class="img-fluid rounded z-depth-1" %}
