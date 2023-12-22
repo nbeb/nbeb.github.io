@@ -20,7 +20,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Welcome to my webpage!
+Welcome to my website!
 
 I'm Nikos, a [lecturer (Assistant Professor) in Fluid Mechanics](https://www.sems.qmul.ac.uk/staff/n.bempedelis) at the School of Engineering and Materials Science, Queen Mary University of London (QMUL). 
 
