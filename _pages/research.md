@@ -10,7 +10,7 @@ nav_order: 2
 
 ---
 **Bubble dynamics**
-Bubbles are fascinating! Even though they are tiny, they can do significant damage to even the strongest of materials. They can also be used for drug delivery, therapy (tumour ablation, kidney stone fragmentation, tissue regeneration, pain management), cleaning of surfaces, and energy generation, to name a few other applications.
+Bubbles are fascinating! Even though they are tiny, they can do significant damage to even the strongest of materials. They can also be used for drug delivery, medical treatments (tumour ablation, kidney stone fragmentation, tissue regeneration, pain management), cleaning of surfaces, and energy generation, to name a few other applications.
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bubble2.png" title="Collapsing bubble" class="img-fluid rounded z-depth-1" %}
