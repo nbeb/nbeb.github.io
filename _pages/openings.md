@@ -12,7 +12,7 @@ nav_order: 5
 
 For details on the post, eligibility requirements and how to apply see [here](https://www.sems.qmul.ac.uk/research/studentships/571/cavitation-damage-through-non-axisymmetric-self-focusing). Feel free to contact me via email for informal enquiries. Funding covers UK/home fees.
 
-Deadline for applications: 31 January 2024
+Deadline for applications: 29 February 2024
 
 ---
 **PhD Studentship on "Universality and similarity in wave-bubble interaction"**
